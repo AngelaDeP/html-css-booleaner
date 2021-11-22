@@ -35,3 +35,8 @@ h1 {
 .sottotitolato {
     background-color: #ffff00;
 }
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
