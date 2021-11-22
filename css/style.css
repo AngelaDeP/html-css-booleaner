@@ -68,3 +68,7 @@ footer span {
     color:rgb(158, 157, 157);
     font-weight: bold;
 }
+
+.immagine-testo {
+    background-image: url(img/monitor.jpg);
+}
