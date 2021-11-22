@@ -54,6 +54,7 @@ thead {
 
 th {
     padding-right: 100px;
+    width: 25%;
 }
 
 td {
@@ -70,5 +71,21 @@ footer span {
 }
 
 .immagine-testo {
-    background-image: url(img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color:rgb(185, 183, 183);
+    font-weight: bold;
+}
+
+.immagine-testo2 {
+    background-image: url(../img/graph.jpg);
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color:rgb(185, 183, 183);
+    font-weight: bold;
 }
