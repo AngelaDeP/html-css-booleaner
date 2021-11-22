@@ -1,0 +1,33 @@
+#intestazione {
+    background-image:url("../img/pattern.png");
+    background-color: rgb(84, 153, 231);
+    background-size: contain;
+    background-repeat: repeat;
+    height: 90px;
+}
+
+header img {
+    height: 50px;
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 60px;
+    display: inline;
+}
+
+.didascalia-iniziale {
+    color: rgb(158, 157, 157);
+}
+
+.autore {
+    color:rgb(84, 153, 231);
+}
+
+.data {
+    font-size: 13px;
+}
+
+.didascalia-foto {
+    font-size: 11px;
+}
