@@ -52,6 +52,14 @@ thead {
     color: white;
 }
 
+th {
+    padding-right: 100px;
+}
+
+td {
+    padding-right: 100px;
+}
+
 .riga-colorata {
     background-color: rgb(181, 233, 253);
 }
