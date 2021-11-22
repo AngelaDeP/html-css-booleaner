@@ -40,3 +40,23 @@ ul {
     list-style-position: inside;
     padding-left: 0;
 }
+
+.lorem-ipsum {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    text-align: left;
+    background-color: rgb(78, 174, 238);
+    color: white;
+}
+
+.riga-colorata {
+    background-color: rgb(181, 233, 253);
+}
+
+footer span {
+    color:rgb(158, 157, 157);
+    font-weight: bold;
+}
